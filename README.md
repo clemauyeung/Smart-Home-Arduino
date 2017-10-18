@@ -18,5 +18,17 @@ The updated version of the library now includes:
 
 [I made a YouTube video to demo my prototype.] (http://youtu.be/2Xp9tBKFUYc)
 
+## Arduino Parts Used
 
+* LEDs
+* Hall Effect Sensor + magnet
+* XBee
+* Buttons
+* Servo motor
+* Piezo buzzer
+* Arduino Uno microcontroller
+
+## Circuit Diagram
+
+![Clue-Secret-Library-Circuit-Diagram] (Smart Library Clue Fritzing_bb.png)
 

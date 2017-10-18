@@ -30,5 +30,5 @@ The updated version of the library now includes:
 
 ## Circuit Diagram
 
-
+![Circuit Diagram](/images/Clue-Smart-Library-Circuit-Diagram.png)
 

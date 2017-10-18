@@ -18,6 +18,10 @@ The updated version of the library now includes:
 
 [I made a YouTube video to demo my prototype.] (http://youtu.be/2Xp9tBKFUYc)
 
+## Code
+
+[You can find my Arduino code here.](/Clue-Secret-Library.ino)
+
 ## Arduino Parts Used
 
 * LEDs

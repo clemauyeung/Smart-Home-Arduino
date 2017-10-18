@@ -30,5 +30,5 @@ The updated version of the library now includes:
 
 ## Circuit Diagram
 
-![Clue-Secret-Library-Circuit-Diagram] (Smart Library Clue Fritzing_bb.png)
+![Clue-Secret-Library-Circuit-Diagram] (/Smart Library Clue Fritzing_bb.png)
 
